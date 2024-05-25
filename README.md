@@ -6,7 +6,7 @@ steps to follow!!
 
 2. run client react app by using command npm start
 
-3. run springboot application by run java command 
+3. run springboot application  in hello folder by run java command 
 
 
 
